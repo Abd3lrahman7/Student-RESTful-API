@@ -1,0 +1,30 @@
+E:\Programming\C#\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.deps.json
+E:\Programming\C#\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.dll
+E:\Programming\C#\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.pdb
+E:\Programming\C#\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentDataAccessLayer.dll
+E:\Programming\C#\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentDataAccessLayer.pdb
+E:\Programming\C#\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.csproj.AssemblyReference.cache
+E:\Programming\C#\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.AssemblyInfoInputs.cache
+E:\Programming\C#\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.AssemblyInfo.cs
+E:\Programming\C#\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Programming\C#\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentA.BCA95842.Up2Date
+E:\Programming\C#\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.dll
+E:\Programming\C#\StudentAPIBusinessLayer\obj\Debug\net8.0\refint\StudentAPIBusinessLayer.dll
+E:\Programming\C#\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.pdb
+E:\Programming\C#\StudentAPIBusinessLayer\obj\Debug\net8.0\ref\StudentAPIBusinessLayer.dll
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.deps.json
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.dll
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentAPIBusinessLayer.pdb
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentDataAccessLayer.dll
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\bin\Debug\net8.0\StudentDataAccessLayer.pdb
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.csproj.AssemblyReference.cache
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.AssemblyInfoInputs.cache
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.AssemblyInfo.cs
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentA.BCA95842.Up2Date
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.dll
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\obj\Debug\net8.0\refint\StudentAPIBusinessLayer.dll
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\obj\Debug\net8.0\StudentAPIBusinessLayer.pdb
+E:\Programming\C#\Student API Project(with database)\StudentAPIBusinessLayer\obj\Debug\net8.0\ref\StudentAPIBusinessLayer.dll

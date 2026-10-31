@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\C#\\Student API Project(with database)\\StudentAPIServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E11DCF48-8C69-4676-A48F-1981DA4B42A5}|..\\StudentAPIBusinessLayer\\StudentAPIBusinessLayer.csproj|e:\\programming\\c#\\student api project(with database)\\studentapibusinesslayer\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A140761-895E-4F56-81CA-A7F1587C4D00}|..\\StudentDataAccessLayer\\StudentDataAccessLayer.csproj|e:\\programming\\c#\\student api project(with database)\\studentdataaccesslayer\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A87A5B-B745-44DB-B2A6-21EB9EB940FB}|StudentAPIServer.csproj|e:\\programming\\c#\\student api project(with database)\\studentapiserver\\controllers\\studentapiserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A87A5B-B745-44DB-B2A6-21EB9EB940FB}|StudentAPIServer.csproj|solutionrelative:controllers\\studentapiserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Student API Project(with database)\\StudentAPIBusinessLayer\\Student.cs",
+              "RelativeDocumentMoniker": "..\\StudentAPIBusinessLayer\\Student.cs",
+              "ToolTip": "E:\\Programming\\C#\\Student API Project(with database)\\StudentAPIBusinessLayer\\Student.cs",
+              "RelativeToolTip": "..\\StudentAPIBusinessLayer\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:55:49.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentData.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Student API Project(with database)\\StudentDataAccessLayer\\StudentData.cs",
+              "RelativeDocumentMoniker": "..\\StudentDataAccessLayer\\StudentData.cs",
+              "ToolTip": "E:\\Programming\\C#\\Student API Project(with database)\\StudentDataAccessLayer\\StudentData.cs",
+              "RelativeToolTip": "..\\StudentDataAccessLayer\\StudentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T08:55:36.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentAPIServer.cs",
+              "DocumentMoniker": "E:\\Programming\\C#\\Student API Project(with database)\\StudentAPIServer\\Controllers\\StudentAPIServer.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentAPIServer.cs",
+              "ToolTip": "E:\\Programming\\C#\\Student API Project(with database)\\StudentAPIServer\\Controllers\\StudentAPIServer.cs",
+              "RelativeToolTip": "Controllers\\StudentAPIServer.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAxwMsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-24T16:38:31.719Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1158,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

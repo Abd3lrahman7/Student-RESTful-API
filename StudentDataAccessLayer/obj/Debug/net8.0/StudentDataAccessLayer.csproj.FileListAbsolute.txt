@@ -1,0 +1,24 @@
+E:\Programming\C#\StudentDataAccessLayer\bin\Debug\net8.0\StudentDataAccessLayer.deps.json
+E:\Programming\C#\StudentDataAccessLayer\bin\Debug\net8.0\StudentDataAccessLayer.dll
+E:\Programming\C#\StudentDataAccessLayer\bin\Debug\net8.0\StudentDataAccessLayer.pdb
+E:\Programming\C#\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.csproj.AssemblyReference.cache
+E:\Programming\C#\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.AssemblyInfoInputs.cache
+E:\Programming\C#\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.AssemblyInfo.cs
+E:\Programming\C#\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Programming\C#\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.dll
+E:\Programming\C#\StudentDataAccessLayer\obj\Debug\net8.0\refint\StudentDataAccessLayer.dll
+E:\Programming\C#\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.pdb
+E:\Programming\C#\StudentDataAccessLayer\obj\Debug\net8.0\ref\StudentDataAccessLayer.dll
+E:\Programming\C#\Student API Project(with database)\StudentDataAccessLayer\bin\Debug\net8.0\StudentDataAccessLayer.deps.json
+E:\Programming\C#\Student API Project(with database)\StudentDataAccessLayer\bin\Debug\net8.0\StudentDataAccessLayer.dll
+E:\Programming\C#\Student API Project(with database)\StudentDataAccessLayer\bin\Debug\net8.0\StudentDataAccessLayer.pdb
+E:\Programming\C#\Student API Project(with database)\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.csproj.AssemblyReference.cache
+E:\Programming\C#\Student API Project(with database)\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\Student API Project(with database)\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.AssemblyInfoInputs.cache
+E:\Programming\C#\Student API Project(with database)\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.AssemblyInfo.cs
+E:\Programming\C#\Student API Project(with database)\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Programming\C#\Student API Project(with database)\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.dll
+E:\Programming\C#\Student API Project(with database)\StudentDataAccessLayer\obj\Debug\net8.0\refint\StudentDataAccessLayer.dll
+E:\Programming\C#\Student API Project(with database)\StudentDataAccessLayer\obj\Debug\net8.0\StudentDataAccessLayer.pdb
+E:\Programming\C#\Student API Project(with database)\StudentDataAccessLayer\obj\Debug\net8.0\ref\StudentDataAccessLayer.dll

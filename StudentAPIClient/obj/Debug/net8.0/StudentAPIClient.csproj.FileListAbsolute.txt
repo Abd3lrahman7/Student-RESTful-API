@@ -1,0 +1,14 @@
+E:\Programming\C#\StudentAPIClient\bin\Debug\net8.0\StudentAPIClient.exe
+E:\Programming\C#\StudentAPIClient\bin\Debug\net8.0\StudentAPIClient.deps.json
+E:\Programming\C#\StudentAPIClient\bin\Debug\net8.0\StudentAPIClient.runtimeconfig.json
+E:\Programming\C#\StudentAPIClient\bin\Debug\net8.0\StudentAPIClient.dll
+E:\Programming\C#\StudentAPIClient\bin\Debug\net8.0\StudentAPIClient.pdb
+E:\Programming\C#\StudentAPIClient\obj\Debug\net8.0\StudentAPIClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C#\StudentAPIClient\obj\Debug\net8.0\StudentAPIClient.AssemblyInfoInputs.cache
+E:\Programming\C#\StudentAPIClient\obj\Debug\net8.0\StudentAPIClient.AssemblyInfo.cs
+E:\Programming\C#\StudentAPIClient\obj\Debug\net8.0\StudentAPIClient.csproj.CoreCompileInputs.cache
+E:\Programming\C#\StudentAPIClient\obj\Debug\net8.0\StudentAPIClient.dll
+E:\Programming\C#\StudentAPIClient\obj\Debug\net8.0\refint\StudentAPIClient.dll
+E:\Programming\C#\StudentAPIClient\obj\Debug\net8.0\StudentAPIClient.pdb
+E:\Programming\C#\StudentAPIClient\obj\Debug\net8.0\StudentAPIClient.genruntimeconfig.cache
+E:\Programming\C#\StudentAPIClient\obj\Debug\net8.0\ref\StudentAPIClient.dll
